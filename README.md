@@ -22,23 +22,6 @@
 
 - ⚡ Fun fact **I can harmonise any song**
 
-<h1 align="center">Heyyy , I'm Shiny Christina V</h1>
-<h3 align="center">A passionate learner who loves problem-solving and talking to people</h3>
-
-- 🔭 I’m currently working on **EyeWheel- empowering paralyzed individuals by recognizing eye movements for precise wheelchair control, fostering independence.**
-
-- 🌱 I’m currently learning **Cloud Computing in Google, Full Stack Development**
-
-- 👯 I’m looking to collaborate on **IMPEL-Energy Regeneration in Diesel Vehicles**
-
-- 🤝 I’m looking for help with **Alzheim's Assistant**
-
-- 💬 Ask me about **Embedded Systems and IoT AI Integration in Embedded Project**
-
-- 📫 How to reach me **shinychristina.25ec@licet.ac.in**
-
-- ⚡ Fun fact **I can harmonise any song**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/shinychristina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shinychristina" height="30" width="40" /></a>
