@@ -2,7 +2,6 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<h1 align="center">Heyyy , I'm Shiny Christina V</h1>
 <h3 align="center">A passionate learner who loves problem-solving and talking to people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinychristina&label=Profile%20views&color=0e75b6&style=flat" alt="shinychristina" /> </p>
